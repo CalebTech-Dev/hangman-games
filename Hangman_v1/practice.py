@@ -21,4 +21,3 @@ for position in range(len(secret_word)) :
     else:
         print('wrong')
 print(display_word)
-print(f'the secret_word is = {secret_word}')
